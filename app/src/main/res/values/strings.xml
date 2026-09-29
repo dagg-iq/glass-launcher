@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Glass Widgets</string>
+    <string name="tab_showcase">Glass Widgets</string>
+    <string name="tab_clock">Luxury Clock</string>
+    <string name="tab_controls">Control Center</string>
+    <string name="tab_customizer">Customizer</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+    <string name="theme_dim">Dim</string>
+    
+    <!-- Widget Descriptions -->
+    <string name="widget_clock_desc">ويدجت الساعة والتقويم الزجاجي الفاخر بتصميم Glassmorphism شفاف</string>
+    <string name="widget_music_desc">ويدجت مشغل الموسيقى الزجاجي التفاعلي مع أزرار التحكم والغلاف</string>
+    <string name="widget_weather_desc">ويدجت الطقس ودرجة الحرارة الزجاجي الحي مع تفاصيل المناخ</string>
+    <string name="widget_system_desc">ويدجت النظام والبطارية الزجاجي الحي لمراقبة حالة الجهاز والذاكرة</string>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "123456789012",
+    "project_id": "glasswidgets-kxvqzn",
+    "storage_bucket": "glasswidgets-kxvqzn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123456789012:android:a1b2c3d4e5f6a1b2c3d4e5",
+        "android_client_info": {
+          "package_name": "com.aistudio.glasswidgets.kxvqzn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "dummy_api_key_for_building_apk_only"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
